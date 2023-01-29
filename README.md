@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="" width="600" alt="Puppeteer-on-Docker logo">
+    <img src="https://github.com/dspaccapeli/puppeteer-on-docker/blob/master/media/puppeteer-on-docker.png?raw=true" width="600" alt="Puppeteer-on-Docker logo">
 </p>
 
 ------
