@@ -1,0 +1,12 @@
+# tell docker what version of the docker-compose.yml were using
+version: '3.9'
+
+# start the services section
+services:
+  puppeteer:
+    build: 
+      dockerfile: puppeteer.dockerfile
+    tty: true
+    restart: unless-stopped
+    ports:
+      - 3000:3000
